@@ -1,6 +1,6 @@
 # nbfujx.github.io
 
-### springBoot-learn-demo</br>
+### springBoot-learn-demo
 #### spring-boot-helloWorld：spring-boot的helloWorld版本
 #### spring-boot-mybaits-annotation：注解版本
 #### spring-boot-mybaits-xml：xml配置版本
