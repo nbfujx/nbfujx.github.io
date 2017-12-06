@@ -7,8 +7,9 @@
 #### spring-boot-mybatis-mulidatasource：springboot+mybatis多数据源最简解决方案
 #### spring-boot-mybatis-annotation-mulidatasource：springboot+mybatis（注解版）多数据源最简解决方案
 #### spring-boot-thymeleaf：simple spring boot thymeleaf demo
-#### spring-boot-jpa-thymeleaf-curd：spring boot + jpa + thymeleaf 增删改查示例
+#### spring-boot-swagger2：spring boot + swagger2 RESTful API文档
 #### spring-boot-rabbitmq：spring boot和rabbitmq各种消息应用案例
+#### spring-boot-websocket：SpringBoot整合WebSocket示例
 #### spring-boot-scheduler：spring boot和定时任务案例
 #### spring-boot-web：web开发综合使用案例
 #### spring-boot-mail：spring boot和邮件服务
@@ -20,6 +21,9 @@
 #### spring-boot-shiro-redis：springboot 整合shiro和redis rbac示例
 #### spring-boot-springSecurity：springboot 整合springSecurity rbac示例
 #### spring-boot-springSecurity-springSession-redis：springboot 整合springSecurity和springSession和redis  rbac示例
+#### spring-boot-dubbo：springboot 整合dubbo 分布式架构示例
+#### spring-boot-ws：springboot 整合cxf webservice 示例
+#### spring-boot-elasticsearch： springboot整合Elasticsearch 示例
 ### springCloud-learn-demo
 #### spring-cloud-eureka：eureka server单机、双机、集群示例
 #### spring-cloud-eureka-producer-consumer：利用eureka实现服务提供与调用示例
@@ -30,6 +34,8 @@
 #### spring-cloud-config-eureka：配置中心服务化和高可用代码示例
 #### spring-cloud-config-eureka-bus：配置中心和消息总线示例（配置中心终结版）
 #### spring-cloud-gateway-service-zuul：服务网关zuul的使用示例
+#### spring-cloud-sleuth：服务链路追踪示例
+#### spring-cloud-servicecomb：华为微服务框架ServiceComb
 ### spring-learn-demo
 #### springAop-annotation：注解版本
 #### springAop-xml：  xml配置实例
